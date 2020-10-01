@@ -1,0 +1,12 @@
+body {
+    background: url(https://www.hdcarwallpapers.com/walls/6th_gear_racing_cars-wide.jpg) no-repeat center / cover;
+}
+
+.form-container {
+    max-width: 500px;
+}
+
+.form-container label {
+    color:white;
+
+}
